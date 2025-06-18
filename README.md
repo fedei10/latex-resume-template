@@ -67,6 +67,12 @@ latex-resume-template/
 
 ## Contributing
 
+
+
+[fedibellakhel.pdf](https://github.com/user-attachments/files/20786747/fedibellakhel.pdf)
+
+
+
 Contributions are welcome! Feel free to open issues or submit pull requests for improvements, bug fixes, or new features.
 
 ## License
